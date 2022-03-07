@@ -389,7 +389,7 @@
 "@babel/plugin-syntax-json-strings@^7.8.0":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-json-strings/-/plugin-syntax-json-strings-7.8.3.tgz#01ca21b668cd8218c9e640cb6dd88c5412b2c96a"
-  integrity sha512-lY6kdGpWHvjoe2vk4WrAapEuBR69EMxZl+RoGRhrFGNYVK8mOPAW8VfbT/ZgrFbXlDNiiaxQnAtgVCZ6jv30EA==
+  integrity sha512-lY6kdGpWHvRip2vk4WrAapEuBR69EMxZl+RoGRhrFGNYVK8mOPAW8VfbT/ZgrFbXlDNiiaxQnAtgVCZ6jv30EA==
   dependencies:
     "@babel/helper-plugin-utils" "^7.8.0"
 
@@ -1723,9 +1723,9 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@traderjoe-xyz/core@^2.3.0":
+"@Dex-Rip/core@^2.3.0":
   version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@traderjoe-xyz/core/-/core-2.3.0.tgz#d43977920cf43c848126eaa021547f2925c6ed81"
+  resolved "https://registry.yarnpkg.com/@Dex-Rip/core/-/core-2.3.0.tgz#d43977920cf43c848126eaa021547f2925c6ed81"
   integrity sha512-8iZDTpjQgv0fbmfpIJ/NZAO1yxLRQdAR4/6hPWP3e6KGtCSS9RWKo99o3Iyg+YRZGBsd0p/99wLa5WhEfibjXw==
 
 "@truffle/error@^0.0.6":
@@ -4963,7 +4963,7 @@ google-p12-pem@^3.0.3:
 got@9.6.0:
   version "9.6.0"
   resolved "https://registry.yarnpkg.com/got/-/got-9.6.0.tgz#edf45e7d67f99545705de1f7bbeeeb121765ed85"
-  integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
+  integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dRipecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
   dependencies:
     "@sindresorhus/is" "^0.14.0"
     "@szmarczak/http-timer" "^1.1.2"
@@ -10461,7 +10461,7 @@ yaml@^1.7.2:
 yargs-parser@10.x:
   version "10.1.0"
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
-  integrity sha512-VCIyR1wJoEBZUqk5PA+oOBF6ypbwh5aNB3I50guxAL/quggdfs4TtNHQrSazFA3fYZ+tEqfs0zIGlv0c/rgjbQ==
+  integrity sha512-VCIyR1wRipBZUqk5PA+oOBF6ypbwh5aNB3I50guxAL/quggdfs4TtNHQrSazFA3fYZ+tEqfs0zIGlv0c/rgjbQ==
   dependencies:
     camelcase "^4.1.0"
 

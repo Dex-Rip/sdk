@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "JoePair",
-  "sourceName": "contracts/traderjoe/JoePair.sol",
+  "contractName": "RipPair",
+  "sourceName": "contracts/DexRip/RipPair.sol",
   "abi": [
     {
       "inputs": [],

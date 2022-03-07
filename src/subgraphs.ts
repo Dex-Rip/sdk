@@ -9,49 +9,49 @@ export const BLOCKS_SUBGRAPH: {[chainId in ChainId]: string } = {
 }
 
 export const EXCHANGE_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/exchange-rinkeby-ii', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/exchange-rinkeby-ii', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/exchange'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/exchange'
 }
 
 export const MASTERCHEF_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/masterchefv2-rinkeby', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/masterchefv2-rinkeby', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/masterchefv2'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/masterchefv2'
 }
 
 export const DEXCANDLES_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/dexcandles-rinkeby-ii', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/dexcandles-rinkeby-ii', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/dexcandles'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/dexcandles'
 }
 
 export const BAR_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/bar-rinkeby-ii', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/bar-rinkeby-ii', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/bar'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/bar'
 }
 
 export const LENDING_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/lending-rinkeby', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/lending-rinkeby', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/lending'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/lending'
 }
 
 export const ROCKET_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/rocket-rinkeby', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/rocket-rinkeby', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/rocket'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/rocket'
 }
 
-export const SJOE_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/sjoe-rinkeby', 
+export const SRip_SUBGRAPH: {[chainId in ChainId]: string } = {
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/sRip-rinkeby', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/sjoe'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/sRip'
 }
 
 export const MONEY_MAKER_SUBGRAPH: {[chainId in ChainId]: string } = {
-    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/money-maker-rinkeby', 
+    [ChainId.RINKEBY]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/money-maker-rinkeby', 
     [ChainId.FUJI]: ZERO_ADDRESS,
-    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/traderjoe-xyz/money-maker'
+    [ChainId.AVALANCHE]: 'https://api.thegraph.com/subgraphs/name/Dex-Rip/money-maker'
 }

@@ -1,16 +1,16 @@
 {
-  "name": "@traderjoe-xyz/sdk",
+  "name": "@Dex-Rip/sdk",
   "license": "MIT",
   "version": "1.3.0",
-  "description": "🛠 An SDK for building applications on top of Trader Joe.",
+  "description": "🛠 An SDK for building applications on top of Dex-Rip.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/traderjoe-xyz/joe-sdk",
+  "repository": "https://github.com/Dex-Rip/Rip-sdk",
   "keywords": [
-    "traderjoe-xyz",
+    "Dex-Rip",
     "avalanche"
   ],
   "module": "dist/sdk.esm.js",
@@ -44,7 +44,7 @@
     "@ethersproject/networks": "^5.0.2",
     "@ethersproject/providers": "^5.0.5",
     "@ethersproject/solidity": "^5.0.2",
-    "@traderjoe-xyz/core": "^2.3.0",
+    "@Dex-Rip/core": "^2.3.0",
     "@types/big.js": "^4.0.5",
     "@types/jest": "^24.0.25",
     "babel-plugin-transform-jsbi-to-bigint": "^1.3.1",

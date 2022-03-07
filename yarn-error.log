@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/josephliu/.nvm/versions/node/v15.8.0/bin/node /Users/josephliu/.nvm/versions/node/v15.8.0/bin/yarn add -D @traderjoe-xyz/joe-core
+  /Users/josephliu/.nvm/versions/node/v15.8.0/bin/node /Users/josephliu/.nvm/versions/node/v15.8.0/bin/yarn add -D @Dex-Rip/Rip-core
 
 PATH: 
   /Users/josephliu/.nvm/versions/node/v15.8.0/bin:/Users/josephliu/.cargo/bin:/opt/apache-maven/bin:/Users/josephliu/.npm-global/bin:/Users/josephliu/.ghcup/bin:/Users/josephliu/.cabal/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@traderjoe-xyz%2fjoe-core: Not found
+  Error: https://registry.yarnpkg.com/@Dex-Rip%2fRip-core: Not found
       at Request.params.callback [as _callback] (/Users/josephliu/.nvm/versions/node/v15.8.0/lib/node_modules/yarn/lib/cli.js:66988:18)
       at Request.self.callback (/Users/josephliu/.nvm/versions/node/v15.8.0/lib/node_modules/yarn/lib/cli.js:140662:22)
       at Request.emit (node:events:378:20)
@@ -28,18 +28,18 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@traderjoe-xyz/sdk",
+    "name": "@Dex-Rip/sdk",
     "license": "MIT",
     "version": "0.1.3",
-    "description": "🛠 An SDK for building applications on top of Trader Joe.",
+    "description": "🛠 An SDK for building applications on top of Dex-Rip.",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
       "dist"
     ],
-    "repository": "https://github.com/traderjoe-xyz/joe-sdk",
+    "repository": "https://github.com/Dex-Rip/Rip-sdk",
     "keywords": [
-      "traderjoe-xyz",
+      "Dex-Rip",
       "avalanche"
     ],
     "module": "dist/sdk.esm.js",
@@ -483,7 +483,7 @@ Lockfile:
   "@babel/plugin-syntax-json-strings@^7.8.0":
     version "7.8.3"
     resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-json-strings/-/plugin-syntax-json-strings-7.8.3.tgz#01ca21b668cd8218c9e640cb6dd88c5412b2c96a"
-    integrity sha512-lY6kdGpWHvjoe2vk4WrAapEuBR69EMxZl+RoGRhrFGNYVK8mOPAW8VfbT/ZgrFbXlDNiiaxQnAtgVCZ6jv30EA==
+    integrity sha512-lY6kdGpWHvRip2vk4WrAapEuBR69EMxZl+RoGRhrFGNYVK8mOPAW8VfbT/ZgrFbXlDNiiaxQnAtgVCZ6jv30EA==
     dependencies:
       "@babel/helper-plugin-utils" "^7.8.0"
   
@@ -5052,7 +5052,7 @@ Lockfile:
   got@9.6.0:
     version "9.6.0"
     resolved "https://registry.yarnpkg.com/got/-/got-9.6.0.tgz#edf45e7d67f99545705de1f7bbeeeb121765ed85"
-    integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
+    integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dRipecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
     dependencies:
       "@sindresorhus/is" "^0.14.0"
       "@szmarczak/http-timer" "^1.1.2"
@@ -10550,7 +10550,7 @@ Lockfile:
   yargs-parser@10.x:
     version "10.1.0"
     resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
-    integrity sha512-VCIyR1wJoEBZUqk5PA+oOBF6ypbwh5aNB3I50guxAL/quggdfs4TtNHQrSazFA3fYZ+tEqfs0zIGlv0c/rgjbQ==
+    integrity sha512-VCIyR1wRipBZUqk5PA+oOBF6ypbwh5aNB3I50guxAL/quggdfs4TtNHQrSazFA3fYZ+tEqfs0zIGlv0c/rgjbQ==
     dependencies:
       camelcase "^4.1.0"
   

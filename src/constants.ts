@@ -29,7 +29,7 @@ export const FACTORY_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10'
 }
 
-export const JOE_ADDRESS: { [chainId in ChainId]: string } = {
+export const Rip_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4',
   [ChainId.FUJI]: '0xcee9d937E3627E55F08240072D63f32c3a60fF2D',
   [ChainId.AVALANCHE]: '0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd'
@@ -107,7 +107,7 @@ export const LOCKING_WRAPPER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0xDc3B37B5F0Fe5d3f8b8701a3F8d81A02EE8A1E1a'
 }
 
-export const ROCKET_JOE_TOKEN_ADDRESS: { [chainId in ChainId]: string } = {
+export const ROCKET_Rip_TOKEN_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0x3Be901d05584dc7900461a1b538ce24F7989cD65',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0x5483ce08659fABF0277f9314868Cc4f78687BD08'
@@ -119,13 +119,13 @@ export const LAUNCH_EVENT_LENS_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0x039AA5d3FC07f6f265656793A8c437055b653d68'
 }
 
-export const ROCKET_JOE_STAKING_ADDRESS: { [chainId in ChainId]: string } = {
+export const ROCKET_Rip_STAKING_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0xc1108bda59F2A66843833d5B801bF40C966d34ca',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0x102D195C3eE8BF8A9A89d63FB3659432d3174d81'
 }
 
-export const STABLE_JOE_STAKING_ADDRESS: { [chainId in ChainId]: string } = {
+export const STABLE_Rip_STAKING_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0x12ba94D04a7a7F0882155b2c55b88e269428227B',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0x1a731B2299E22FbAC282E7094EdA41046343Cb51'
@@ -137,7 +137,7 @@ export const MONEY_MAKER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0x63C0CF90aE12190B388F9914531369aC1e4e4e47'
 }
 
-export const SJOE_REWARD_TOKEN: { [chainId in ChainId]: string } = {
+export const SRip_REWARD_TOKEN: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E'
@@ -178,13 +178,13 @@ export const UNITROLLER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.AVALANCHE]: '0xdc13687554205E5b89Ac783db14bb5bba4A1eDaC'
 }
 
-export const JOELENS_ADDRESS: { [chainId in ChainId]: string } = {
+export const RipLENS_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0x4234528B4707d9c5F992FE63b514fd1dC7aFf42E',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0x994Ed0698F5145211Fd5DAE458dD7d91c2da6CEC'
 }
 
-export const JOELENSVIEW_ADDRESS: { [chainId in ChainId]: string } = {
+export const RipLENSVIEW_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.RINKEBY]: '0x51fBdc8FCa72CeF1E1b558DB0c502e874DB5602A',
   [ChainId.FUJI]: '0x0000000000000000000000000000000000000000',
   [ChainId.AVALANCHE]: '0x0000000000000000000000000000000000000000'
